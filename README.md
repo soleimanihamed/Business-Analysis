@@ -11,7 +11,7 @@ This repository contains various business analysis projects and case studies tha
    #### Projects:
    - **SWOT Analysis of J.P. Morgan's Blockchain Strategy**  
      A detailed SWOT (Strengths, Weaknesses, Opportunities, Threats) analysis of J.P. Morgan's blockchain strategy, examining how the company is integrating blockchain technology into its business operations and the potential impact on its competitive advantage.
-     - [PDF: SWOT Analysis of J.P. Morgan's Blockchain Strategy](./Business_Strategy_and_Innovation/SWOT_Analysis_of_JP_Morgan_Blockchain_Strategy.pdf)
+     - [PDF: SWOT Analysis of J.P. Morgan's Blockchain Strategy](./Business_Strategy_and_Innovation/Impact_of_Blockchain_Technology_on_JP_Morgan.pdf)
 
    - **Digital Transformation in TSB Bank**  
      An in-depth analysis of the digital transformation initiatives undertaken by TSB Bank, focusing on how the bank is leveraging digital technologies to improve operational efficiency and customer experience.
