@@ -21,7 +21,7 @@ This repository contains various business analysis projects and case studies tha
 
 ## How to Navigate
 
-Each section of this repository contains detailed case studies and analyses related to business strategy and innovation. You can find PDFs of the completed research and project files, with explanations and insights in the associated `README.md` files.
+Each section of this repository contains detailed case studies and analyses. You can find PDFs of the completed research and project files, with explanations and insights in the associated `README.md` files.
 
 ---
 
