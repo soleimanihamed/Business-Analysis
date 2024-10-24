@@ -5,11 +5,12 @@ This repository showcases a series of business analysis studies, applying advanc
 ## Table of Contents
 
 1. [Study 1: SWOT Analysis of J.P. Morgan's Blockchain Strategy](#study-1-swot-analysis-of-jp-morgans-blockchain-strategy)
+   - [Download PDF Report](Impact_of_Blockchain_Technology_on_JP_Morgan.pdf)
    - Description
    - Key Business Analysis Skills Demonstrated
    - Business Impact
    - Tools and Methods
-2. 
+3. 
 
 ---
 
