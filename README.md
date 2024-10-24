@@ -15,7 +15,7 @@ This repository contains various business analysis projects and case studies tha
 
    - **Digital Transformation in TSB Bank**  
      An in-depth analysis of the digital transformation initiatives undertaken by TSB Bank, focusing on how the bank is leveraging digital technologies to improve operational efficiency and customer experience.
-     - [PDF: Digital Transformation in TSB Bank](./Business_Strategy_and_Innovation/Digital_Transformation_in_TSB_Bank.pdf)
+     - [PDF: Digital Transformation in TSB Bank](./Business_Strategy_and_Innovation/digital_transformation_in_TSB_bank.pdf)
 
 ---
 
