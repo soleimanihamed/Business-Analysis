@@ -11,7 +11,7 @@ This repository showcases a series of business analysis studies, applying advanc
    - Business Impact
    - Tools and Methods
 2. [Study 2: Digital Transformation in TSB Bank](#study-2-digital-transformation-in-tsb-bank)
-   - [Download PDF Report](Digital_Transformation_in_TSB_Bank.pdf)
+   - [Download PDF Report](digital_transformation_in_TSB_bank.pdf)
    - Description
    - Key Business Analysis Skills Demonstrated
    - Business Impact
